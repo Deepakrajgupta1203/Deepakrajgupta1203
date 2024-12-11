@@ -1,8 +1,8 @@
 ![logo](https://github.com/Deepakrajgupta1203/Deepakrajgupta1203/blob/main/github_banner.png)
-<h1 align="center">Hi 👋, I'm Deepak Raj</h1>
-<h3 align="center">A passionate FullStack Developer</h3>
+<h1 align="center">Hi 👋, I'm Deepak Raj Gupta</h1>
+<h3 align="center">Transforming Ideas into Scalable Solutions: Full-Stack Developer and Strategic Problem Solver</h3>
 
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" width="400" align="right">
+<img src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" alt="Coding" width="400" align="right">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=deepakrajgupta1203&label=Profile%20views&color=0e75b6&style=flat" alt="deepakrajgupta1203" /> 
@@ -47,10 +47,34 @@
 
 <h3 align="left">Most Used Languages:</h3>
 <p align="left">
-  <img src="./assets/Screenshot%202024-12-12%20at%202.29.09%E2%80%AFAM.png" alt="Most Used Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakrajgupta1203&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 <h3 align="left">Total Contributions:</h3>
 <p align="left">
   <img src="https://github-contribution-stats.vercel.app/api/?username=deepakrajgupta1203&count_private=true&theme=radical" alt="deepakrajgupta1203" />
 </p>
+
+<h3 align="left">Education:</h3>
+<ul>
+  <li><strong>Chandigarh University (2021 - 2025)</strong></li>
+  <li>BE - CSE | CGPA: 8.3</li>
+</ul>
+
+<h3 align="left">Skills & Abilities:</h3>
+<ul>
+  <li><strong>Languages:</strong> C++, Python</li>
+  <li><strong>Databases:</strong> SQL, MongoDB</li>
+  <li><strong>Web Development:</strong> HTML, CSS, JavaScript</li>
+  <li><strong>Frameworks:</strong> Express.js, React.js, Node.js, Tailwind</li>
+  <li><strong>Soft Skills:</strong> Team Leadership, Team Management, Problem-Solving</li>
+</ul>
+
+<h3 align="left">Achievements:</h3>
+<ul>
+  <li>200+ DSA problems solved on Leetcode and GFG.</li>
+  <li>Runner-up in the hackathon competition.</li>
+  <li>Won various coding competitions organized at college.</li>
+  <li>Ranked among top-3 academic achievers in school.</li>
+  <li>Secured first place in chess at the inter-school competition.</li>
+</ul>
