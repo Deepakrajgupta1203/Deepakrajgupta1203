@@ -1,4 +1,4 @@
-![logo](https://github.com/Deepakrajgupta1203/Deepakrajgupta1203/blob/main/github_banner.png)
+![logo](https://github.com/Deepakrajgupta1203/Deepakrajgupta1203/blob/main/github_banner_.png)
 <h1 align="center">Hi 👋, I'm Deepak Raj Gupta</h1>
 <h3 align="center">Transforming Ideas into Scalable Solutions: Full-Stack Developer and Strategic Problem Solver</h3>
 
