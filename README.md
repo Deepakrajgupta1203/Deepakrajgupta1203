@@ -39,6 +39,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
+
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepakrajgupta1203&show_icons=true&locale=en&count_private=true&theme=radical" />
@@ -63,11 +64,11 @@
 
 <h3 align="left">Skills & Abilities:</h3>
 <ul>
-  <li><strong>Languages:</strong> C++, Python</li>
-  <li><strong>Databases:</strong> SQL, MongoDB</li>
-  <li><strong>Web Development:</strong> HTML, CSS, JavaScript</li>
-  <li><strong>Frameworks:</strong> Express.js, React.js, Node.js, Tailwind</li>
-  <li><strong>Soft Skills:</strong> Team Leadership, Team Management, Problem-Solving</li>
+  <li><strong>Languages:</strong> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></li>
+  <li><strong>Databases:</strong> <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"></li>
+  <li><strong>Web Development:</strong> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></li>
+  <li><strong>Frameworks:</strong> <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" alt="Express.js"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"></li>
+  <li><strong>Soft Skills:</strong> <img src="https://img.shields.io/badge/Team%20Leadership-6A1B9A?style=flat-square&logo=people&logoColor=white" alt="Team Leadership"> <img src="https://img.shields.io/badge/Team%20Management-1E88E5?style=flat-square&logo=groups&logoColor=white" alt="Team Management"> <img src="https://img.shields.io/badge/Problem%20Solving-388E3C?style=flat-square&logo=lightbulb&logoColor=white" alt="Problem Solving"></li>
 </ul>
 
 <h3 align="left">Achievements:</h3>
