@@ -46,6 +46,9 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakrajgupta1203&theme=radical" />
 </p>
 
+![](https://leetcard.jacoblin.cool/Deepakrajgupta?ext=contest)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Deepakrajgupta&animated=true)
+
 <h3 align="left">Most Used Languages:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakrajgupta1203&layout=compact&theme=radical" alt="Most Used Languages" />
@@ -55,6 +58,7 @@
 <p align="left">
   <img src="https://github-contribution-stats.vercel.app/api/?username=deepakrajgupta1203&count_private=true&theme=radical" alt="deepakrajgupta1203" />
 </p>
+
 
 <h3 align="left">Education:</h3>
 <ul>
@@ -79,3 +83,5 @@
   <li>Ranked among top-3 academic achievers in school.</li>
   <li>Secured first place in chess at the inter-school competition.</li>
 </ul>
+
+
