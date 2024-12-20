@@ -49,10 +49,11 @@
 ![](https://leetcard.jacoblin.cool/Deepakrajgupta?ext=contest)
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Deepakrajgupta&animated=true)
 
-<h3 align="left">Most Used Languages:</h3>
+<h3 align="left">Languages Used in Projects:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakrajgupta1203&layout=compact&theme=radical&langs_count=10&hide=html,css&exclude_repo=Your-Repo-Name&count_private=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakrajgupta1203&layout=compact&theme=radical&count_private=true" alt="Languages Used in Projects" />
 </p>
+
 
 
 <h3 align="left">Total Contributions:</h3>
