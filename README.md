@@ -51,7 +51,7 @@
 
 <h3 align="left">Most Used Languages:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakrajgupta1203&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakrajgupta1203&layout=compact&theme=radical&langs_count=10" alt="Most Used Languages" />
 </p>
 
 <h3 align="left">Total Contributions:</h3>
