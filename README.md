@@ -39,6 +39,15 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">Languages Used in Projects:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakrajgupta1203&layout=compact&theme=radical&count_private=true" alt="Languages Used in Projects" />
+</p>
+
+<h3 align="left">GitHub Trophies:</h3>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=deepakrajgupta1203&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
@@ -49,18 +58,10 @@
 ![](https://leetcard.jacoblin.cool/Deepakrajgupta?ext=contest)
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Deepakrajgupta&animated=true)
 
-<h3 align="left">Languages Used in Projects:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakrajgupta1203&layout=compact&theme=radical&count_private=true" alt="Languages Used in Projects" />
-</p>
-
-
-
 <h3 align="left">Total Contributions:</h3>
 <p align="left">
   <img src="https://github-contribution-stats.vercel.app/api/?username=deepakrajgupta1203&count_private=true&theme=radical" alt="deepakrajgupta1203" />
 </p>
-
 
 <h3 align="left">Education:</h3>
 <ul>
@@ -86,7 +87,6 @@
   <li>Secured first place in chess at the inter-school competition.</li>
 </ul>
 
-
 <h3 align="left">Dev Quote</h3>
 <p align="center">
   <blockquote>
@@ -94,6 +94,3 @@
     <br>– Jeff Bezos, Founder of Amazon
   </blockquote>
 </p>
-
-
-
