@@ -87,3 +87,13 @@
 </ul>
 
 
+<h3 align="left">Dev Quote</h3>
+<p align="center">
+  <blockquote>
+    “Work hard, have fun, make history.”  
+    <br>– Jeff Bezos, Founder of Amazon
+  </blockquote>
+</p>
+
+
+
