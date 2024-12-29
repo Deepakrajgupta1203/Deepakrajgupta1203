@@ -1,5 +1,15 @@
 ![logo](https://github.com/Deepakrajgupta1203/Deepakrajgupta1203/blob/main/github_banner_.png?raw=true)
 <h1 align="center">Hi 👋, I'm Deepak Raj Gupta</h1>
+
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&lines=Welcome+to+my+Github+profile!;CSE'25+Undergrad;Passionate+about+Coding!)](https://git.io/typing-svg)
+
+</div>
+
+
+
+
 <h3 align="center">Transforming Ideas into Scalable Solutions: Full-Stack Developer and Strategic Problem Solver</h3>
 
 <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding" width="380" align="right">
