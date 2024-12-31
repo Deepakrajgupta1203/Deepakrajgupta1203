@@ -112,11 +112,3 @@
     </h1>
 </div>
 
-
-<div align="center">
-  <h2>My Contributions </h2>
-  <p align="center">
-    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
-  </p>
-</div>
-
