@@ -111,3 +111,12 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Keep+Learning+and+Exploring!;Let's+code+together!" alt="Typing SVG"/> 
     </h1>
 </div>
+
+
+<div align="center">
+  <h2>My Contributions </h2>
+  <p align="center">
+    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+  </p>
+</div>
+
