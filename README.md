@@ -3,7 +3,8 @@
 
 <div align="center">
   
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=700&color=FCA311&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=🚀+Deepak+here...+Crafting+Code+with+Purpose.;👨‍🎓+CSE+Graduate+%7C+Full-Stack+Developer+%7C+Tech+Visionary;💡+Turning+Ideas+into+Elegant+Solutions.;🧠+300%2B+DSA+Problems+Solved+%7C+Hackathon+Topper+🏆;🎯+Code.+Build.+Learn.+Repeat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=64FFDA&background=0F1624DD&center=true&vCenter=true&lines=Hello+there!;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+
 
 </div>
 
